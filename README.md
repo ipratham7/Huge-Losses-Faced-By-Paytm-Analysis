@@ -3,6 +3,9 @@
 ## About Paytm
 Paytm is an Indian digital payments and financial services company based in Noida. It was founded in 2010 by Vijay Shekhar Sharma under One97 Communications. The company offers mobile payment services to consumers and enables merchants to receive payments through its QR code, point of sale, and online payment gateway offerings. Paytm also provides financial services like microloans and buy now, pay later in partnership with financial institutions.
 
+![image](https://github.com/ipratham7/Huge-Losses-Faced-By-Paytm-Analysis/assets/64377030/fe4b4b30-64ff-428d-90bf-29e16bbd4515)
+
+
 ## Project Overview
 The project aims to analyze the reasons behind the significant losses faced by Paytm. It delves into various aspects of the company, including its revenue segments, financials, employee demographics, stakeholders, investors, marketing strategies, customer analysis, products/services, and market competition. The project also highlights the challenges Paytm encountered and suggests potential improvements to address these issues.
 
